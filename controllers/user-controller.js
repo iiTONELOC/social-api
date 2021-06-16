@@ -9,7 +9,7 @@ const userController = {
                 select: '-__v'
             })
             .populate({
-                path: 'thought',
+                path: 'thoughts',
                 select: '-__v'
             })
             .select('-__v')
@@ -29,7 +29,7 @@ const userController = {
                 select: '-__v'
             })
             .populate({
-                path: 'thought',
+                path: 'thoughts',
                 select: '-__v'
             })
             .select('-__v')
