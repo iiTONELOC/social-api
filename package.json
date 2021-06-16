@@ -1,0 +1,25 @@
+{
+  "name": "social-api",
+  "version": "1.0.0",
+  "description": "Back end for a Social Network",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiTONELOC/social-api.git"
+  },
+  "author": "Anthony Tropeano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiTONELOC/social-api/issues"
+  },
+  "homepage": "https://github.com/iiTONELOC/social-api#readme"
+}
