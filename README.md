@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub language count](https://img.shields.io/github/languages/count/iiTONELOC/social-api?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/iiTONELOC/social-api?style=flat-square)
 
 # Screenshot
-<iframe src="https://drive.google.com/file/d/1zbynQNitVbKQ3Ug9AZtwBffVXmTqJj_O/preview" width="640" height="480"></iframe>
+![Social API](./assets/images/Screenshot.jpg)
 
 # Description
 A functional api for a social website
